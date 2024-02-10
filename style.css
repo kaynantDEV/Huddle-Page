@@ -113,6 +113,9 @@ footer i:hover{
     justify-content: center;
     text-align: center;
    }
+   .main-img img{
+    width: 70%;
+}
    .main-text{
     display: flex;
     flex-direction: column;
