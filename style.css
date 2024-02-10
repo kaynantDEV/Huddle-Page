@@ -131,7 +131,7 @@ footer i:hover{
    }
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 350px){
     header img{
         width: 30%;
     }
