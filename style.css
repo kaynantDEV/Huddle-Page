@@ -105,6 +105,9 @@ footer i:hover{
 .attribution a { color: white; }
 
 @media screen and (max-width: 750px){
+    header img{
+        width: 30%;
+    }
 
    main{
     display: flex;
@@ -115,7 +118,7 @@ footer i:hover{
    }
    .main-img img{
     width: 70%;
-}
+    }
    .main-text{
     display: flex;
     flex-direction: column;
